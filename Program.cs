@@ -68,6 +68,10 @@ namespace RockPaperScissors
                     Console.WriteLine("Invalid entry! Please check your spelling.");
                 }
 
+                Console.WriteLine("--------------------------------");
+                Console.WriteLine("Testing git revert in this line");
+                Console.WriteLine("--------------------------------");
+
                 Console.WriteLine("\nDo you want to play again? (Y/N):");
                 string answer = Console.ReadLine().ToUpper();
 
