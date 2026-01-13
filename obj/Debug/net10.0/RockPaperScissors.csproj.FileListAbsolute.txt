@@ -12,3 +12,4 @@ C:\Users\Hanna\Desktop\University\3rd Year\APPDEV\RockPaperScissors\obj\Debug\ne
 C:\Users\Hanna\Desktop\University\3rd Year\APPDEV\RockPaperScissors\obj\Debug\net10.0\RockPaperScissors.pdb
 C:\Users\Hanna\Desktop\University\3rd Year\APPDEV\RockPaperScissors\obj\Debug\net10.0\RockPaperScissors.genruntimeconfig.cache
 C:\Users\Hanna\Desktop\University\3rd Year\APPDEV\RockPaperScissors\obj\Debug\net10.0\ref\RockPaperScissors.dll
+C:\Users\Hanna\Desktop\University\3rd Year\APPDEV\RockPaperScissors\obj\Debug\net10.0\RockPaperScissors.sourcelink.json
